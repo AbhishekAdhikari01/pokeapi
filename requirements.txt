@@ -1,0 +1,19 @@
+# core backend
+Flask
+requests
+flask-cors
+
+# For AI agent
+
+openai
+transformers
+torch
+
+# for passing natural language description (used in Team builder module)
+nltk
+scikit-learn
+spicy
+
+# for loadong .env (eg , API keys)
+python-dotenv
+sentence-transformers
